@@ -1,0 +1,9 @@
+npm i
+npm i express bcryptjs passport mongoose connect-flash express-session ejs express-ejs-layouts passport-local
+npm i -D nodemon
+
+
+tutorial
+https://www.youtube.com/watch?v=6FOq4cUdH8k
+
+https://bootswatch.com/
